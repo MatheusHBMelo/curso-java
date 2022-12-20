@@ -1,17 +1,19 @@
 package composicaoDeClasses.contatos.entities;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Contato {
     private String nome;
     private Endereco endereco;
-    private Telefone telefone;
+    private List<Telefone> telefones = new ArrayList<>();
 
     public Contato() {
     }
 
-    public Contato(String nome, Endereco endereco, Telefone telefone) {
+    public Contato(String nome, Endereco endereco) {
         this.nome = nome;
         this.endereco = endereco;
-        this.telefone = telefone;
     }
 
     public String getNome() {
@@ -30,12 +32,12 @@ public class Contato {
         this.endereco = endereco;
     }
 
-    public Telefone getTelefone() {
-        return telefone;
+    public List<Telefone> getTelefones() {
+        return telefones;
     }
 
-    public void setTelefone(Telefone telefone) {
-        this.telefone = telefone;
+    public void setTelefones(List<Telefone> telefones) {
+        this.telefones = telefones;
     }
 
     @Override
@@ -44,7 +46,7 @@ public class Contato {
                 + nome
                 + " | Endereço: "
                 + endereco
-                + " | Telefone: "
-                + telefone;
+                + " | Telefones: "
+                + telefones;
     }
 }
