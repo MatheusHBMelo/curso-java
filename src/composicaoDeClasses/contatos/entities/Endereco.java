@@ -78,7 +78,7 @@ public class Endereco {
 
     @Override
     public String toString() {
-        return " { " +
+        return "{ " +
                 "Rua: "
                 + rua
                 + " | Número: "

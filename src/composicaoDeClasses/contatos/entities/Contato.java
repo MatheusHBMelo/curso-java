@@ -3,12 +3,12 @@ package composicaoDeClasses.contatos.entities;
 public class Contato {
     private String nome;
     private Endereco endereco;
-    private String telefone;
+    private Telefone telefone;
 
     public Contato() {
     }
 
-    public Contato(String nome, Endereco endereco, String telefone) {
+    public Contato(String nome, Endereco endereco, Telefone telefone) {
         this.nome = nome;
         this.endereco = endereco;
         this.telefone = telefone;
@@ -30,11 +30,11 @@ public class Contato {
         this.endereco = endereco;
     }
 
-    public String getTelefone() {
+    public Telefone getTelefone() {
         return telefone;
     }
 
-    public void setTelefone(String telefone) {
+    public void setTelefone(Telefone telefone) {
         this.telefone = telefone;
     }
 
