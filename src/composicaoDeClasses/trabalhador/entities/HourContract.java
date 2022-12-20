@@ -1,4 +1,4 @@
-package composicaoDeClasses.entities;
+package composicaoDeClasses.trabalhador.entities;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

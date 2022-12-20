@@ -1,11 +1,10 @@
-package composicaoDeClasses;
+package composicaoDeClasses.trabalhador;
 
-import composicaoDeClasses.entities.Department;
-import composicaoDeClasses.entities.HourContract;
-import composicaoDeClasses.entities.Worker;
-import composicaoDeClasses.entities.enums.WorkerLevel;
+import composicaoDeClasses.trabalhador.entities.Department;
+import composicaoDeClasses.trabalhador.entities.HourContract;
+import composicaoDeClasses.trabalhador.entities.Worker;
+import composicaoDeClasses.trabalhador.enums.WorkerLevel;
 
-import java.time.LocalDate;
 import java.util.Locale;
 import java.util.Scanner;
 

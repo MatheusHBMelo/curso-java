@@ -1,6 +1,8 @@
-package composicaoDeClasses.entities;
+package composicaoDeClasses.trabalhador.entities;
 
-import composicaoDeClasses.entities.enums.WorkerLevel;
+import composicaoDeClasses.trabalhador.entities.Department;
+import composicaoDeClasses.trabalhador.entities.HourContract;
+import composicaoDeClasses.trabalhador.enums.WorkerLevel;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

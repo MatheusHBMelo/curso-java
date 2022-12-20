@@ -1,4 +1,4 @@
-package composicaoDeClasses.entities;
+package composicaoDeClasses.trabalhador.entities;
 
 public class Department {
     private String name;
