@@ -16,5 +16,8 @@ public class App {
         System.out.println("Nome: " + contato.getNome());
         System.out.println("Endereço: " + contato.getEndereco());
         System.out.println("Telefone: " + contato.getTelefone());
+
+        // Testando o método toString()
+        System.out.println("\n" + contato);
     }
 }
