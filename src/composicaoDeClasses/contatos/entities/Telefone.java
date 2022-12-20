@@ -1,24 +1,26 @@
 package composicaoDeClasses.contatos.entities;
 
+import composicaoDeClasses.contatos.enums.TipoTelefone;
+
 public class Telefone {
-    private String tipo;
+    private TipoTelefone tipo;
     private String ddd;
     private String numero;
 
     public Telefone() {
     }
 
-    public Telefone(String tipo, String ddd, String numero) {
+    public Telefone(TipoTelefone tipo, String ddd, String numero) {
         this.tipo = tipo;
         this.ddd = ddd;
         this.numero = numero;
     }
 
-    public String getTipo() {
+    public TipoTelefone getTipo() {
         return tipo;
     }
 
-    public void setTipo(String tipo) {
+    public void setTipo(TipoTelefone tipo) {
         this.tipo = tipo;
     }
 

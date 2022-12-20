@@ -3,6 +3,7 @@ package composicaoDeClasses.contatos;
 import composicaoDeClasses.contatos.entities.Contato;
 import composicaoDeClasses.contatos.entities.Endereco;
 import composicaoDeClasses.contatos.entities.Telefone;
+import composicaoDeClasses.contatos.enums.TipoTelefone;
 
 public class App {
     public static void main(String[] args) {
@@ -23,7 +24,7 @@ public class App {
         endereco.setBairro("Recife antigo");
         endereco.setCidade("Recife");
         endereco.setCep("00000-000");
-        telefone.setTipo("Celular");
+        telefone.setTipo(TipoTelefone.valueOf("CELULAR"));
         telefone.setDdd("81");
         telefone.setNumero("99999-0000");
 
