@@ -27,4 +27,11 @@ public class BusinessAccount extends Account {
             deposit(amount);
         }
     }
+
+    // Usando a super para usar a implementação original do metódo + uma logica excedente da subclasse
+    @Override
+    public final void withDraw(Double amount){
+        super.withDraw(amount);
+        balance -= 2.0;
+    }
 }
