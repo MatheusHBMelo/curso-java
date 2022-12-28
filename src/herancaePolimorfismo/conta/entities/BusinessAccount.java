@@ -1,6 +1,4 @@
-package heranca.conta.entities;
-
-import heranca.conta.entities.Account;
+package herancaePolimorfismo.conta.entities;
 
 public class BusinessAccount extends Account {
     private Double loanLimit;

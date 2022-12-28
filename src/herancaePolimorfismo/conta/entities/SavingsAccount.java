@@ -1,4 +1,4 @@
-package heranca.conta.entities;
+package herancaePolimorfismo.conta.entities;
 
 public class SavingsAccount extends Account{
     private Double interestRate;

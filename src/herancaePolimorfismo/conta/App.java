@@ -1,8 +1,8 @@
-package heranca.conta;
+package herancaePolimorfismo.conta;
 
-import heranca.conta.entities.Account;
-import heranca.conta.entities.BusinessAccount;
-import heranca.conta.entities.SavingsAccount;
+import herancaePolimorfismo.conta.entities.Account;
+import herancaePolimorfismo.conta.entities.BusinessAccount;
+import herancaePolimorfismo.conta.entities.SavingsAccount;
 
 public class App {
     public static void main(String[] args) {
