@@ -1,6 +1,7 @@
 package classesAbstratas.conta.entities;
 
-public class Account {
+// Classe abstrata não pode ser instanciada, apenas as subs desde que não sejam abstratas também
+public abstract class Account {
     private Integer number;
     private String holder;
     protected Double balance;
