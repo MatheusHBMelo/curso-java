@@ -36,6 +36,7 @@ public class Reservation {
     }
 
     public Integer duration(){
+        // Descobrindo a quantidade de dias entre o checkout e o checkin
         Duration d1 = Duration.between(checkin.atStartOfDay(), checkout.atStartOfDay());
         return (int) d1.toDays();
     }
