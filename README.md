@@ -1,4 +1,7 @@
-<div align="center">	<h1>Curso de java completo com Programação Orientada a Objetos</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/MatheusHBMelo/curso-java/main/img/1_GCu4cNWIU1ElDbY7d4ycZw.png" alt="Banner Java">
+
+
+<h1>Curso de java completo com Programação Orientada a Objetos</h1>
 
 <p> Olá, este repositório é referente a um curso que estou realizando sobre <strong>LINGUAGEM JAVA</strong> na plataforma de cursos online <a href="https://www.udemy.com/"><strong>Udemy</a></strong>.<br>
 
