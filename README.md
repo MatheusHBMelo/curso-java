@@ -101,7 +101,12 @@ repositório remoto<br>✅ Como sobrescrever um histórico no Github<br>
 ✅ Varargs<br>✅ Constantes<br>✅ Jump de fluxos<br>🔳 Recursividade<br>🔳 BigDecimal<br>🔳 Stack<br>🔳 Queue<br>🔳 Iterator<br>🔳 Pacotes e Import<br>🔳 InstanceOf<br>🔳 Static Import<br>🔳 Classes aninhadas<br>🔳 Annotations<br>🔳 Threads<br>🔳 Tokenizer<br>🔳 Classes utilitárias<br>🔳 ResourceBundle<br>🔳 BigInteger<br>🔳 Jars<br>🔳 Associação<br>🔳 Regex<br>🔳 IO<br>🔳 NIO<br>🔳 Serialization<br>🔳 Colections<br>🔳 Method Reference<br>🔳 Classes internas<br>🔳 Optional<br>🔳 Streams<br>🔳 Concorrência<br>🔳 Padrões de projeto<br>🔳 Testes unitários<br>🔳 Record Class<br>🔳 Pattern Matching for InstanceOf<br>
   
 <h3><strong>:small_orange_diamond: Projeto 01<strong></h3>
+✅ <a href="https://github.com/MatheusHBMelo/chess-system-java"><strong>Chess-System-Java</strong></a><br>
+
 <h3><strong>:small_orange_diamond: Trabalhando com arquivos<strong></h3>
+
+✅ Classe File & Scanner<br>✅ FileReader & BufferedReader<br>✅ Try-with-resources<br>✅ FileWriter & BufferedWriter<br>✅ Manipulando pasta com File<br>✅ Capturando informações de arquivos e pastas<br>
+
 <h3><strong>:small_orange_diamond: Interfaces<strong></h3>
 <h3><strong>:small_orange_diamond: Generics, Set e Map<strong></h3>
 <h3><strong>:small_orange_diamond: Programação funcional e expressões lambda<strong></h3>
