@@ -109,7 +109,13 @@ repositório remoto<br>✅ Como sobrescrever um histórico no Github<br>
 ✅ Classe File & Scanner<br>✅ FileReader & BufferedReader<br>✅ Try-with-resources<br>✅ FileWriter & BufferedWriter<br>✅ Manipulando pasta com File<br>✅ Capturando informações de arquivos e pastas<br>
 
 <h3>:small_orange_diamond: Interfaces</h3>
+  
+✅ Conceitos basicos sobre interface<br>✅ Inversão de controle e injeção de dependência<br>✅ Herdar vs Cumprir<br>✅ Herança multipla<br>✅ Comparable e Comparator<br>✅ Default methods<br>  
+  
 <h3>:small_orange_diamond: Generics, Set e Map</h3>
+  
+✅ Introdução aos generics<br>✅ Generics delimitados<br>🔳 Tipos curinga<br>🔳 Curingas delimitados<br>🔳 HashCode e Equals<br>🔳 SET<br>🔳 MAP<br>  
+  
 <h3>:small_orange_diamond: Programação funcional e expressões lambda</h3>
 <h3>:small_orange_diamond: Acesso a banco de dados com JDBC</h3>
 <h3>:small_orange_diamond: Projeto 02</h3>
