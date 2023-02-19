@@ -10,7 +10,6 @@
 
 <img alt="lastcommit" src="https://img.shields.io/github/last-commit/matheushbmelo/curso-java?color=blue&label=Ultimo commit" /></div>
 
-
 <br>
 <h2> :beginner: Informações sobre o código: </h2>
 
