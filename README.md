@@ -121,8 +121,8 @@ repositório remoto<br>✅ Como sobrescrever um histórico no Github<br>
 🔳 Programação funcional e calculo lambda<br>🔳 Interface funcional<br>🔳 Predicate<br>🔳 Consumer<br>🔳 Function<br>🔳 Funções que recebem funções como parâmetro<br>🔳 Stream<br>  
   
 <h3>:small_orange_diamond: Acesso a banco de dados com JDBC</h3>
+<h3>:small_orange_diamond: Java EE: Mapeamento objeto relacional com JPA / Hibernate</h3>
 <h3>:small_orange_diamond: Projeto 02</h3>
 <h3>:small_orange_diamond: Projeto 03</h3>  
-<h3>:small_orange_diamond: Interface gráfica com JavaFX</h3>  
-<h3>:small_orange_diamond: JPA e Hibernate</h3>    
+<h3>:small_orange_diamond: Interface gráfica com JavaFX</h3> 
 <br><br></strong>
