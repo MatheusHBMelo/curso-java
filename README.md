@@ -5,7 +5,10 @@
 
 <p> Olá, este repositório é referente a um curso que estou realizando sobre <strong>LINGUAGEM JAVA</strong> na plataforma de cursos online <a href="https://www.udemy.com/"><strong>Udemy</a></strong>.<br>
 
-▶️ Professor orientador e ministrante do curso: <a href="https://github.com/acenelio">Nelio Alves</a> ◀️</div>
+▶️ Professor orientador e ministrante do curso: <a href="https://github.com/acenelio">Nelio Alves</a> ◀️
+
+
+<img alt="lastcommit" src="https://img.shields.io/github/last-commit/matheushbmelo/curso-java?color=blue&label=Ultimo commit" /></div>
 
 
 <br>
