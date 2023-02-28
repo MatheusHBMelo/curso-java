@@ -1,4 +1,4 @@
-package genericssetmap.map.exercicioproposto.application;
+package collections.map.exercicioproposto.application;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package genericssetmap.map.estudo02;
+package collections.map.estudo02;
 
 import java.util.HashMap;
 import java.util.Map;
