@@ -5,8 +5,10 @@
 
 <p> Olá, este repositório é referente a um curso que estou realizando sobre <strong>LINGUAGEM JAVA</strong> na plataforma de cursos online <a href="https://www.udemy.com/"><strong>Udemy</a></strong>.<br>
 
-▶️ Professor orientador e ministrante do curso: <a href="https://github.com/acenelio">Nelio Alves</a> ◀️</div>
+▶️ Professor orientador e ministrante do curso: <a href="https://github.com/acenelio">Nelio Alves</a> ◀️
 
+
+<img alt="lastcommit" src="https://img.shields.io/github/last-commit/matheushbmelo/curso-java?color=blue&label=Ultimo commit" /></div>
 
 <br>
 <h2> :beginner: Informações sobre o código: </h2>
@@ -114,12 +116,15 @@ repositório remoto<br>✅ Como sobrescrever um histórico no Github<br>
   
 <h3>:small_orange_diamond: Generics, Set e Map</h3>
   
-✅ Introdução aos generics<br>✅ Generics delimitados<br>✅ Tipos curinga<br>✅ Curingas delimitados<br>✅ HashCode e Equals<br>🔳 SET<br>🔳 MAP<br>  
+✅ Introdução aos generics<br>✅ Generics delimitados<br>✅ Tipos curinga<br>✅ Curingas delimitados<br>✅ HashCode e Equals<br>✅ SET<br>✅ MAP<br>  
   
 <h3>:small_orange_diamond: Programação funcional e expressões lambda</h3>
+  
+🔳 Programação funcional e calculo lambda<br>🔳 Interface funcional<br>🔳 Predicate<br>🔳 Consumer<br>🔳 Function<br>🔳 Funções que recebem funções como parâmetro<br>🔳 Stream<br>  
+  
 <h3>:small_orange_diamond: Acesso a banco de dados com JDBC</h3>
+<h3>:small_orange_diamond: Java EE: Mapeamento objeto relacional com JPA / Hibernate</h3>
 <h3>:small_orange_diamond: Projeto 02</h3>
 <h3>:small_orange_diamond: Projeto 03</h3>  
-<h3>:small_orange_diamond: Interface gráfica com JavaFX</h3>  
-<h3>:small_orange_diamond: JPA e Hibernate</h3>    
+<h3>:small_orange_diamond: Interface gráfica com JavaFX</h3> 
 <br><br></strong>
