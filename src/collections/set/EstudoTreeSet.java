@@ -1,4 +1,4 @@
-package genericssetmap.set;
+package collections.set;
 
 import java.util.Set;
 import java.util.TreeSet;
