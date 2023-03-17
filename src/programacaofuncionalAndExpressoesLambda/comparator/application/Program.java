@@ -4,6 +4,7 @@ import programacaofuncionalAndExpressoesLambda.comparator.model.Product;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class Program {
@@ -17,7 +18,19 @@ public class Program {
         list.add(new Product("Computador", 3500.00));
 
         // Collections.sort(list); -> É necessário ter um comparable e implementar o compareTo
-        list.sort(new ProductComparator()); // -> É necessário ter um Comparator e passar via argumento
+        // list.sort(new ProductComparator()); -> É necessário ter um Comparator e passar via argumento
+
+        // Estrutura e declaração de uma classe anonima
+        Comparator<Product> comp = new Comparator<Product>() {
+            @Override
+            public int compare(Product o1, Product o2) {
+                return o1.getName().toUpperCase().compareTo(o2.getName().toUpperCase());
+            }
+        };
+
+        list.sort(comp); // -> Comparator da classe anonima é passado como argumento
+
+        // Metodo anonimo
 
         for (Product p : list){
             System.out.println(p);
