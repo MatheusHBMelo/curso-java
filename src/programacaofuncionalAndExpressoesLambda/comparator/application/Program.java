@@ -16,7 +16,8 @@ public class Program {
         list.add(new Product("Arco", 10.00));
         list.add(new Product("Computador", 3500.00));
 
-        Collections.sort(list); //-> É necessário ter um comparable e implementar o compareTo
+        // Collections.sort(list); -> É necessário ter um comparable e implementar o compareTo
+        list.sort(new ProductComparator()); // -> É necessário ter um Comparator e passar via argumento
 
         for (Product p : list){
             System.out.println(p);
