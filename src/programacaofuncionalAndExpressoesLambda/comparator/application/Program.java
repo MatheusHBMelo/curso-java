@@ -20,7 +20,8 @@ public class Program {
         // Collections.sort(list); -> É necessário ter um comparable e implementar o compareTo
         // list.sort(new ProductComparator()); -> É necessário ter um Comparator e passar via argumento
 
-        // Estrutura e declaração de uma classe anonima
+        /* Estrutura e declaração de uma classe anonima
+
         Comparator<Product> comp = new Comparator<Product>() {
             @Override
             public int compare(Product o1, Product o2) {
@@ -28,9 +29,16 @@ public class Program {
             }
         };
 
-        list.sort(comp); // -> Comparator da classe anonima é passado como argumento
+        */
+
+        // list.sort(comp); -> Comparator da classe anonima é passado como argumento
 
         // Metodo anonimo
+        Comparator<Product> comp = (p1, p2) -> {
+            return p1.getName().toUpperCase().compareTo(p2.getName().toUpperCase());
+        };
+
+        list.sort(comp);
 
         for (Product p : list){
             System.out.println(p);
