@@ -101,7 +101,7 @@ repositório remoto<br>✅ Como sobrescrever um histórico no Github<br>
 
 <h3>:small_orange_diamond: Outros tópicos - autodidata</h3>
 
-✅ Varargs<br>✅ Constantes<br>✅ Jump de fluxos<br>🔳 Recursividade<br>🔳 BigDecimal<br>🔳 Stack<br>🔳 Queue<br>🔳 Iterator<br>🔳 Pacotes e Import<br>🔳 InstanceOf<br>🔳 Static Import<br>🔳 Classes aninhadas<br>🔳 Annotations<br>🔳 Threads<br>🔳 Tokenizer<br>🔳 Classes utilitárias<br>🔳 ResourceBundle<br>🔳 BigInteger<br>🔳 Jars<br>🔳 Associação<br>🔳 Regex<br>🔳 IO<br>🔳 NIO<br>🔳 Serialization<br>🔳 Colections<br>🔳 Method Reference<br>🔳 Classes internas<br>🔳 Optional<br>🔳 Streams<br>🔳 Concorrência<br>🔳 Padrões de projeto<br>🔳 Testes unitários<br>🔳 Record Class<br>🔳 Pattern Matching for InstanceOf<br>
+✅ Varargs<br>✅ Constantes<br>✅ Jump de fluxos<br>🔳 Recursividade<br>🔳 BigDecimal<br>✅ Stack<br>✅ Queue<br>✅ Iterator<br>✅ Pacotes e Import<br>🔳 InstanceOf<br>🔳 Static Import<br>🔳 Classes aninhadas<br>🔳 Annotations<br>🔳 Threads<br>🔳 Tokenizer<br>🔳 Classes utilitárias<br>🔳 ResourceBundle<br>🔳 BigInteger<br>🔳 Jars<br>✅ Associação<br>🔳 Regex<br>✅ IO<br>🔳 NIO<br>🔳 Serialization<br>✅ Colections<br>✅ Method Reference<br>🔳 Classes internas<br>🔳 Optional<br>✅ Streams<br>🔳 Concorrência<br>🔳 Padrões de projeto<br>🔳 Testes unitários<br>🔳 Record Class<br>🔳 Pattern Matching for InstanceOf<br>
   
 <h3>:small_orange_diamond: Projeto 01</h3>
 ✅ <a href="https://github.com/MatheusHBMelo/chess-system-java"><strong>Chess-System-Java</strong></a><br>
@@ -120,7 +120,7 @@ repositório remoto<br>✅ Como sobrescrever um histórico no Github<br>
   
 <h3>:small_orange_diamond: Programação funcional e expressões lambda</h3>
   
-🔳 Programação funcional e calculo lambda<br>🔳 Interface funcional<br>🔳 Predicate<br>🔳 Consumer<br>🔳 Function<br>🔳 Funções que recebem funções como parâmetro<br>🔳 Stream<br>  
+✅ Programação funcional e calculo lambda<br>✅ Interface funcional<br>✅ Predicate<br>✅ Consumer<br>✅ Function<br>✅ Funções que recebem funções como parâmetro<br>✅ Stream<br>  
   
 <h3>:small_orange_diamond: Acesso a banco de dados com JDBC</h3>
 <h3>:small_orange_diamond: Java EE: Mapeamento objeto relacional com JPA / Hibernate</h3>
