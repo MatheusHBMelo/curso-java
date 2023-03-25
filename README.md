@@ -103,7 +103,7 @@ repositório remoto<br>✅ Como sobrescrever um histórico no Github<br>
 
 ✅ Varargs<br>✅ Constantes<br>✅ Jump de fluxos<br>🔳 Recursividade<br>🔳 BigDecimal<br>✅ Stack<br>✅ Queue<br>✅ Iterator<br>✅ Pacotes e Import<br>🔳 InstanceOf<br>🔳 Static Import<br>🔳 Classes aninhadas<br>🔳 Annotations<br>🔳 Threads<br>🔳 Tokenizer<br>🔳 Classes utilitárias<br>🔳 ResourceBundle<br>🔳 BigInteger<br>🔳 Jars<br>✅ Associação<br>🔳 Regex<br>✅ IO<br>🔳 NIO<br>🔳 Serialization<br>✅ Colections<br>✅ Method Reference<br>🔳 Classes internas<br>🔳 Optional<br>✅ Streams<br>🔳 Concorrência<br>🔳 Padrões de projeto<br>🔳 Testes unitários<br>🔳 Record Class<br>🔳 Pattern Matching for InstanceOf<br>
   
-<h3>:small_orange_diamond: Projeto 01</h3>
+<h3>:small_orange_diamond: Projeto 01 - Jogo de xadrez</h3>
 ✅ <a href="https://github.com/MatheusHBMelo/chess-system-java"><strong>Chess-System-Java</strong></a><br>
 
 <h3>:small_orange_diamond: Trabalhando com arquivos</h3>
@@ -123,8 +123,14 @@ repositório remoto<br>✅ Como sobrescrever um histórico no Github<br>
 ✅ Programação funcional e calculo lambda<br>✅ Interface funcional<br>✅ Predicate<br>✅ Consumer<br>✅ Function<br>✅ Funções que recebem funções como parâmetro<br>✅ Stream<br>  
   
 <h3>:small_orange_diamond: Acesso a banco de dados com JDBC</h3>
+  
+🔳 Algebra relacional e SQL<br>🔳 MySQL<br>🔳 DAO - Data Access Object<br>🔳 Recuperar, inserir, atualizar e deletar dados<br>
+  
 <h3>:small_orange_diamond: Java EE: Mapeamento objeto relacional com JPA / Hibernate</h3>
-<h3>:small_orange_diamond: Projeto 02</h3>
-<h3>:small_orange_diamond: Projeto 03</h3>  
+  
+🔳 STS e Postman<br>🔳 JPA<br>🔳 Hibernate<br>🔳 Maven<br>
+  
+<h3>:small_orange_diamond: Projeto 02 - Web service com Spring Boot e JPA/Hibernate</h3>
+<h3>:small_orange_diamond: Projeto 03 - API Restful com Spring Boot + MongoDB</h3>  
 <h3>:small_orange_diamond: Interface gráfica com JavaFX</h3> 
 <br><br></strong>
