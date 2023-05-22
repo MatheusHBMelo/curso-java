@@ -123,12 +123,12 @@ repositório remoto<br>✅ Como sobrescrever um histórico no Github<br>
 ✅ Programação funcional e calculo lambda<br>✅ Interface funcional<br>✅ Predicate<br>✅ Consumer<br>✅ Function<br>✅ Funções que recebem funções como parâmetro<br>✅ Stream<br>  
   
 <h3>:small_orange_diamond: Acesso a banco de dados com JDBC</h3>
-  
-🔳 Algebra relacional e SQL<br>🔳 MySQL<br>🔳 DAO - Data Access Object<br>🔳 Recuperar, inserir, atualizar e deletar dados<br>
+
+✅ Algebra relacional e SQL<br>✅ MySQL<br>✅ DAO - Data Access Object<br>✅ Recuperar, inserir, atualizar e deletar dados<br>✅ Properties and Connection<br>✅ SQLException and IOException<br>
   
 <h3>:small_orange_diamond: Java EE: Mapeamento objeto relacional com JPA / Hibernate</h3>
-  
-🔳 STS e Postman<br>🔳 JPA<br>🔳 Hibernate<br>🔳 Maven<br>
+
+✅ JPA<br>✅ Hibernate<br>✅ Maven<br>
   
 <h3>:small_orange_diamond: Projeto 02 - Web service com Spring Boot e JPA/Hibernate</h3>
 <h3>:small_orange_diamond: Projeto 03 - API Restful com Spring Boot + MongoDB</h3>  
